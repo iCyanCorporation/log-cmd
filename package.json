@@ -1,0 +1,19 @@
+{
+  "name": "log-cmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.1.1"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.6.3"
+  }
+}

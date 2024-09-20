@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Electron CMD Logger</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="cmd-container">
+      <div style="height: 0px; width: 100%"></div>
+      <pre id="cmd-output"></pre>
+      <span id="cmd-input-container">
+        <span id="cmd-prompt">C:\></span>
+        <textarea id="cmd-input" placeholder="Type here..."></textarea>
+      </span>
+    </div>
+    <script src="renderer.js"></script>
+  </body>
+</html>
