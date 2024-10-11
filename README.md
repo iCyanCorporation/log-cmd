@@ -29,3 +29,12 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Refer(Alternative)
+1. with new version cmd may be nice too.
+- microsoft/terminal: https://github.com/microsoft/terminal
+- microsoft store: https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=ja-jp&gl=JP
+
+2. use ubuntu in windows from microsoft store
+https://apps.microsoft.com/detail/9p7bdvkvnxz6?hl=ja-jp&gl=JP
+
