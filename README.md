@@ -38,3 +38,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 2. use ubuntu in windows from microsoft store
 https://apps.microsoft.com/detail/9p7bdvkvnxz6?hl=ja-jp&gl=JP
 
+3. install Clink
+https://github.com/chrisant996/clink
+
+
