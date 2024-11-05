@@ -40,5 +40,5 @@ https://apps.microsoft.com/detail/9p7bdvkvnxz6?hl=ja-jp&gl=JP
 
 3. install Clink
 https://github.com/chrisant996/clink
-
+with `Oh My Posh` theme
 
